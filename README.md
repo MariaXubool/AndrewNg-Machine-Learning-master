@@ -10,4 +10,5 @@ WEEK 2    Linear Regression
                               Learning Rate
                             Polynomial Regression
                             Normal Equation
+
 WEEK 3    Neural Networks: Representation
